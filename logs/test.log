@@ -10,3 +10,49 @@
 2026-01-29 22:22:29 INFO  Test_01_LoginUsingInvalidCreds - Invalid login start
 2026-01-29 22:22:34 INFO  ScreenshotListener - Screenshot captured for failed test: invalidCredsTest in class: org.example.test.VWO.Test_01_LoginUsingInvalidCreds
 2026-01-29 22:22:34 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/invalidCredsTest_29_01_2026_10_22_33.png
+2026-01-30 10:12:51 INFO  Test_01_LoginUsingInvalidCreds - Invalid login start
+2026-01-30 10:13:03 INFO  Test_01_LoginUsingInvalidCreds - Invalid login start
+2026-01-30 10:13:11 INFO  Test_01_LoginUsingInvalidCreds - Invalid login start
+2026-01-30 10:13:19 INFO  Test_01_LoginUsingInvalidCreds - Invalid login start
+2026-01-30 10:13:27 INFO  ScreenshotListener - Screenshot captured for failed test: invalidCredsTest in class: org.example.test.VWO.Test_01_LoginUsingInvalidCreds
+2026-01-30 10:13:27 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/invalidCredsTest_30_01_2026_10_13_26.png
+2026-01-30 10:28:37 INFO  Test_01_LoginUsingInvalidCreds - Invalid login start
+2026-01-30 10:28:45 INFO  Test_01_LoginUsingInvalidCreds - Invalid login start
+2026-01-30 10:28:55 INFO  Test_01_LoginUsingInvalidCreds - Invalid login start
+2026-01-30 10:29:05 INFO  Test_01_LoginUsingInvalidCreds - Invalid login start
+2026-01-30 10:29:12 INFO  ScreenshotListener - Screenshot captured for failed test: invalidCredsTest in class: org.example.test.VWO.Test_01_LoginUsingInvalidCreds
+2026-01-30 10:29:12 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/invalidCredsTest_30_01_2026_10_29_12.png
+2026-01-30 10:33:33 INFO  Test_01_LoginUsingInvalidCreds - Invalid login start
+2026-01-30 10:39:18 INFO  Test_01_LoginUsingInvalidCreds - Invalid login start
+2026-01-30 10:39:24 INFO  Test_01_LoginUsingInvalidCreds - Invalid login start
+2026-01-30 10:39:30 INFO  Test_01_LoginUsingInvalidCreds - Invalid login start
+2026-01-30 10:39:36 INFO  Test_01_LoginUsingInvalidCreds - Invalid login start
+2026-01-30 10:39:40 INFO  ScreenshotListener - Screenshot captured for failed test: invalidCredsTest in class: org.example.test.VWO.Test_01_LoginUsingInvalidCreds
+2026-01-30 10:39:40 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/invalidCredsTest_30_01_2026_10_39_40.png
+2026-01-30 10:40:53 INFO  Test_01_LoginUsingInvalidCreds - Invalid login start
+2026-01-30 10:40:58 INFO  Test_01_LoginUsingInvalidCreds - Invalid login start
+2026-01-30 10:41:06 INFO  Test_01_LoginUsingInvalidCreds - Invalid login start
+2026-01-30 10:41:11 INFO  Test_01_LoginUsingInvalidCreds - Invalid login start
+2026-01-30 10:41:15 INFO  ScreenshotListener - Screenshot captured for failed test: invalidCredsTest in class: org.example.test.VWO.Test_01_LoginUsingInvalidCreds
+2026-01-30 10:41:15 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/invalidCredsTest_30_01_2026_10_41_15.png
+2026-01-30 11:38:36 INFO  Test_01_LoginUsingInvalidCreds - Invalid login start
+2026-01-30 11:38:42 INFO  Test_01_LoginUsingInvalidCreds - Invalid login start
+2026-01-30 11:38:47 INFO  Test_01_LoginUsingInvalidCreds - Invalid login start
+2026-01-30 11:38:52 INFO  Test_01_LoginUsingInvalidCreds - Invalid login start
+2026-01-30 11:38:57 INFO  ScreenshotListener - Screenshot captured for failed test: invalidCredsTest in class: org.example.test.VWO.Test_01_LoginUsingInvalidCreds
+2026-01-30 11:38:57 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/invalidCredsTest_30_01_2026_11_38_56.png
+2026-01-30 11:43:26 INFO  Test_01_LoginUsingInvalidCreds - Invalid login start
+2026-01-30 11:43:31 INFO  ScreenshotListener - Screenshot captured for failed test: invalidCredsTest in class: org.example.test.VWO.Test_01_LoginUsingInvalidCreds
+2026-01-30 11:43:31 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/invalidCredsTest_30_01_2026_11_43_31.png
+2026-01-30 11:45:45 INFO  Test_01_LoginUsingInvalidCreds - Invalid login start
+2026-01-30 11:45:50 INFO  Test_01_LoginUsingInvalidCreds - Invalid login start
+2026-01-30 11:45:55 INFO  Test_01_LoginUsingInvalidCreds - Invalid login start
+2026-01-30 11:46:00 INFO  Test_01_LoginUsingInvalidCreds - Invalid login start
+2026-01-30 11:46:04 INFO  ScreenshotListener - Screenshot captured for failed test: invalidCredsTest in class: org.example.test.VWO.Test_01_LoginUsingInvalidCreds
+2026-01-30 11:46:04 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/invalidCredsTest_30_01_2026_11_46_04.png
+2026-01-30 12:05:03 INFO  Test_01_LoginUsingInvalidCreds - Invalid login start
+2026-01-30 12:05:10 INFO  Test_01_LoginUsingInvalidCreds - Invalid login start
+2026-01-30 12:05:15 INFO  Test_01_LoginUsingInvalidCreds - Invalid login start
+2026-01-30 12:05:20 INFO  Test_01_LoginUsingInvalidCreds - Invalid login start
+2026-01-30 12:05:24 INFO  ScreenshotListener - Screenshot captured for failed test: invalidCredsTest in class: org.example.test.VWO.Test_01_LoginUsingInvalidCreds
+2026-01-30 12:05:24 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/invalidCredsTest_30_01_2026_12_05_24.png
