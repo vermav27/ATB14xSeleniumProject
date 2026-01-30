@@ -37,6 +37,7 @@ public class ScreenshotListener implements ITestListener {
                 // Take screenshot as bytes for Allure (FIXED: use byte array, not file path)
                 byte[] screenshotBytes = ((TakesScreenshot) driver).getScreenshotAs(OutputType.BYTES);
 
+
                 // Create screenshot file path
                 String timestamp = formatter.format(calendar.getTime());
                 String screenshotFileName = methodName + "_" + timestamp + ".png";
@@ -49,8 +50,10 @@ public class ScreenshotListener implements ITestListener {
                 }
 
                 // Save screenshot to file
-                File scrFile = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
-                FileUtils.copyFile(scrFile, new File(screenshotPath));
+                FileUtils.writeByteArrayToFile(
+                        new File(screenshotPath),
+                        screenshotBytes
+                );
 
                 // Add screenshot link to TestNG report
                 org.testng.Reporter.log("<a href='" + screenshotPath + "'> Screenshot</a>");

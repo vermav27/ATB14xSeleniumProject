@@ -37,7 +37,7 @@ public class Test_01_LoginUsingInvalidCreds extends commonToAll {
         logger.info("Invalid login start");
         String errorMessage = loginPage.loginWithInvalidCreds(PropertiesReader.readKey("invalidUsername"), PropertiesReader.readKey("invalidPassword"));
         Allure.addAttachment("Log output", "text/plain", "This is some log text");
-        assertThat(errorMessage).isNotEmpty();
+        assertThat(errorMessage).isEqualTo("Hello");
 
     }
 
