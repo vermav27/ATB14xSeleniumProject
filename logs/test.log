@@ -64,3 +64,65 @@
 2026-01-30 13:48:44 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/invalidCredsTest_30_01_2026_01_48_43.png
 2026-01-30 13:58:32 INFO  Test_01_LoginUsingInvalidCreds - Invalid login start
 2026-01-31 09:04:28 INFO  Test_01_LoginUsingInvalidCreds - Invalid login start
+2026-01-31 12:50:23 INFO  Test01_VerifytheSumOfTheTransactions - Login To App
+2026-01-31 13:01:26 INFO  Test_01_VerifytheSumOfTheTransactions - Login To App
+2026-01-31 13:07:48 INFO  Test_01_VerifytheSumOfTheTransactions - Login To App
+2026-01-31 13:07:50 INFO  Test_01_VerifytheSumOfTheTransactions - Asserting user is on app.html page
+2026-01-31 13:07:50 INFO  Test_01_VerifytheSumOfTheTransactions - Verified user is on app.html page
+2026-01-31 14:27:07 INFO  loginPage - Entering Login to the app.
+2026-01-31 14:27:08 INFO  loginPage - Logged In
+2026-01-31 14:27:08 INFO  Test_01_VerifytheSumOfTheTransactions - calling : homePage.verifyThatUserIsOnApp()
+2026-01-31 14:27:08 INFO  homePage - Start verification that user is on the app home page.
+2026-01-31 14:27:09 INFO  homePage - Verified user is on the home page.
+2026-01-31 14:51:34 INFO  loginPage - Entering Login to the app.
+2026-01-31 14:51:36 INFO  loginPage - Logged In
+2026-01-31 14:51:36 INFO  homePage - Start verification that user is on the app home page.
+2026-01-31 14:51:36 INFO  homePage - Verified user is on the home page.
+2026-01-31 14:59:43 INFO  loginPage - Entering Login to the app.
+2026-01-31 14:59:44 INFO  loginPage - Logged In
+2026-01-31 14:59:44 INFO  homePage - Start verification that user is on the app home page.
+2026-01-31 14:59:44 INFO  homePage - Verified user is on the home page.
+2026-01-31 15:12:50 INFO  loginPage - Entering Login to the app.
+2026-01-31 15:12:54 INFO  loginPage - Logged In
+2026-01-31 15:12:54 INFO  homePage - Start verification that user is on the app home page.
+2026-01-31 15:12:55 INFO  homePage - Verified user is on the home page.
+2026-01-31 15:23:30 INFO  loginPage - Entering Login to the app.
+2026-01-31 15:23:32 INFO  loginPage - Logged In
+2026-01-31 15:23:32 INFO  homePage - Start verification that user is on the app home page.
+2026-01-31 15:23:32 INFO  homePage - Verified user is on the home page.
+2026-01-31 15:23:32 INFO  homePage - Starting Calculating Value
+2026-01-31 15:23:32 INFO  homePage - String value converting to double
+2026-01-31 15:23:32 INFO  homePage - String value converted to double value.
+2026-01-31 15:23:32 INFO  homePage - String value converting to double
+2026-01-31 15:23:32 INFO  homePage - String value converted to double value.
+2026-01-31 15:23:32 INFO  homePage - String value converting to double
+2026-01-31 15:23:32 INFO  homePage - String value converted to double value.
+2026-01-31 15:23:32 INFO  homePage - String value converting to double
+2026-01-31 15:23:32 INFO  homePage - String value converted to double value.
+2026-01-31 15:23:32 INFO  homePage - String value converting to double
+2026-01-31 15:23:32 INFO  homePage - String value converted to double value.
+2026-01-31 15:23:32 INFO  homePage - String value converting to double
+2026-01-31 15:23:32 INFO  homePage - String value converted to double value.
+2026-01-31 15:23:32 INFO  homePage - Returning the spent value.
+2026-01-31 15:23:32 INFO  homePage - Starting verifying the value
+2026-01-31 15:23:32 INFO  homePage - Value verified
+2026-01-31 15:24:16 INFO  loginPage - Entering Login to the app.
+2026-01-31 15:24:19 INFO  loginPage - Logged In
+2026-01-31 15:24:19 INFO  homePage - Start verification that user is on the app home page.
+2026-01-31 15:24:19 INFO  homePage - Verified user is on the home page.
+2026-01-31 15:24:19 INFO  homePage - Starting Calculating Value
+2026-01-31 15:24:19 INFO  homePage - String value converting to double
+2026-01-31 15:24:19 INFO  homePage - String value converted to double value.
+2026-01-31 15:24:19 INFO  homePage - String value converting to double
+2026-01-31 15:24:19 INFO  homePage - String value converted to double value.
+2026-01-31 15:24:19 INFO  homePage - String value converting to double
+2026-01-31 15:24:19 INFO  homePage - String value converted to double value.
+2026-01-31 15:24:19 INFO  homePage - String value converting to double
+2026-01-31 15:24:19 INFO  homePage - String value converted to double value.
+2026-01-31 15:24:19 INFO  homePage - String value converting to double
+2026-01-31 15:24:19 INFO  homePage - String value converted to double value.
+2026-01-31 15:24:19 INFO  homePage - String value converting to double
+2026-01-31 15:24:19 INFO  homePage - String value converted to double value.
+2026-01-31 15:24:19 INFO  homePage - Returning the spent value.
+2026-01-31 15:24:19 INFO  homePage - Starting verifying the value
+2026-01-31 15:24:19 INFO  homePage - Value verified
