@@ -126,3 +126,24 @@
 2026-01-31 15:24:19 INFO  homePage - Returning the spent value.
 2026-01-31 15:24:19 INFO  homePage - Starting verifying the value
 2026-01-31 15:24:19 INFO  homePage - Value verified
+2026-02-01 11:23:41 INFO  Test_01_LoginUsingInvalidCreds - Invalid login start
+2026-02-01 11:23:48 INFO  loginPage - Entering Login to the app.
+2026-02-01 11:23:50 INFO  loginPage - Logged In
+2026-02-01 11:23:50 INFO  homePage - Start verification that user is on the app home page.
+2026-02-01 11:23:50 INFO  homePage - Verified user is on the home page.
+2026-02-01 11:23:50 INFO  homePage - Starting Calculating Value
+2026-02-01 11:23:50 INFO  homePage - String value converting to double
+2026-02-01 11:23:50 INFO  homePage - String value converted to double value.
+2026-02-01 11:23:50 INFO  homePage - String value converting to double
+2026-02-01 11:23:50 INFO  homePage - String value converted to double value.
+2026-02-01 11:23:50 INFO  homePage - String value converting to double
+2026-02-01 11:23:50 INFO  homePage - String value converted to double value.
+2026-02-01 11:23:50 INFO  homePage - String value converting to double
+2026-02-01 11:23:50 INFO  homePage - String value converted to double value.
+2026-02-01 11:23:50 INFO  homePage - String value converting to double
+2026-02-01 11:23:50 INFO  homePage - String value converted to double value.
+2026-02-01 11:23:50 INFO  homePage - String value converting to double
+2026-02-01 11:23:50 INFO  homePage - String value converted to double value.
+2026-02-01 11:23:50 INFO  homePage - Returning the spent value.
+2026-02-01 11:23:50 INFO  homePage - Starting verifying the value
+2026-02-01 11:23:50 INFO  homePage - Value verified

@@ -9,8 +9,8 @@
 
     <test verbose="2" preserve-order="true" name="ATB14xSeleniumProject">
         <classes>
-            <class name="org.example.test.VWO.Test_01_LoginUsingInvalidCreds">
-            </class>
+            <class name="org.example.test.VWO.Test_01_LoginUsingInvalidCreds"/>
+            <class name="org.example.test.Applitools.Test_01_VerifytheSumOfTheTransactions"/>
         </classes>
     </test>
 

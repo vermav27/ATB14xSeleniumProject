@@ -4,15 +4,18 @@ import io.qameta.allure.Description;
 import io.qameta.allure.Owner;
 import org.example.base.commonToAll;
 import org.example.driver.DriverManager;
+import org.example.listeners.ScreenshotListener;
 import org.example.pages.POM.Applitools.homePage;
 import org.example.pages.POM.Applitools.loginPage;
 import org.example.utils.PropertiesReader;
 import org.openqa.selenium.WebDriver;
+import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 
+@Listeners(ScreenshotListener.class)
 public class Test_01_VerifytheSumOfTheTransactions extends commonToAll {
 
     private static final Logger logger = LogManager.getLogger(Test_01_VerifytheSumOfTheTransactions.class);
