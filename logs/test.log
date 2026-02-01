@@ -147,3 +147,36 @@
 2026-02-01 11:23:50 INFO  homePage - Returning the spent value.
 2026-02-01 11:23:50 INFO  homePage - Starting verifying the value
 2026-02-01 11:23:50 INFO  homePage - Value verified
+2026-02-01 12:14:05 INFO  loginPage - Opening website Demo QA
+2026-02-01 12:19:10 INFO  loginPage - Opening website Demo QA
+2026-02-01 12:28:47 INFO  loginPage - Opening website Demo QA
+2026-02-01 12:29:37 INFO  loginPage - Opening website Demo QA
+2026-02-01 12:34:28 INFO  loginPage - Opening website Demo QA
+2026-02-01 12:35:32 INFO  loginPage - Opening website Demo QA
+2026-02-01 12:40:07 INFO  Test_01_LoginUsingInvalidCreds - Invalid login start
+2026-02-01 12:40:16 INFO  loginPage - Entering Login to the app.
+2026-02-01 12:40:18 INFO  loginPage - Logged In
+2026-02-01 12:40:18 INFO  homePage - Start verification that user is on the app home page.
+2026-02-01 12:40:18 INFO  homePage - Verified user is on the home page.
+2026-02-01 12:40:18 INFO  homePage - Starting Calculating Value
+2026-02-01 12:40:18 INFO  homePage - String value converting to double
+2026-02-01 12:40:18 INFO  homePage - String value converted to double value.
+2026-02-01 12:40:18 INFO  homePage - String value converting to double
+2026-02-01 12:40:18 INFO  homePage - String value converted to double value.
+2026-02-01 12:40:18 INFO  homePage - String value converting to double
+2026-02-01 12:40:18 INFO  homePage - String value converted to double value.
+2026-02-01 12:40:18 INFO  homePage - String value converting to double
+2026-02-01 12:40:18 INFO  homePage - String value converted to double value.
+2026-02-01 12:40:18 INFO  homePage - String value converting to double
+2026-02-01 12:40:18 INFO  homePage - String value converted to double value.
+2026-02-01 12:40:18 INFO  homePage - String value converting to double
+2026-02-01 12:40:18 INFO  homePage - String value converted to double value.
+2026-02-01 12:40:18 INFO  homePage - Returning the spent value.
+2026-02-01 12:40:18 INFO  homePage - Starting verifying the value
+2026-02-01 12:40:18 INFO  homePage - Value verified
+2026-02-01 12:40:19 INFO  loginPage - Opening website Demo QA
+2026-02-01 12:40:38 INFO  loginPage - Scrolling to take table into view
+2026-02-01 12:40:38 INFO  loginPage - Waiting for edit button for visibility
+2026-02-01 12:40:38 INFO  loginPage - Clearing Text in field
+2026-02-01 12:40:38 INFO  loginPage - Entering Value Vineet
+2026-02-01 12:40:38 INFO  loginPage - Getting Value of the table cell & Verifying

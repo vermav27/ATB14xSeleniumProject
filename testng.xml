@@ -11,6 +11,7 @@
         <classes>
             <class name="org.example.test.VWO.Test_01_LoginUsingInvalidCreds"/>
             <class name="org.example.test.Applitools.Test_01_VerifytheSumOfTheTransactions"/>
+            <class name="org.example.test.demoQA.Test_01_EditTheTableRowAndVerify"/>
         </classes>
     </test>
 

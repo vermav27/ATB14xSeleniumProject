@@ -18,7 +18,6 @@ import org.apache.logging.log4j.Logger;
 @Listeners(ScreenshotListener.class)
 public class Test_01_VerifytheSumOfTheTransactions extends commonToAll {
 
-    private static final Logger logger = LogManager.getLogger(Test_01_VerifytheSumOfTheTransactions.class);
 
     @Test
     @Description("TC-01-Verify the sum of the transactions.")
@@ -26,7 +25,6 @@ public class Test_01_VerifytheSumOfTheTransactions extends commonToAll {
     public void loginToAppAndVerifyTheSumOfTransactions(){
 
         loginPage loginPage = new loginPage(DriverManager.getDriver());
-        //logger.info("Login To App");
         loginPage.loginToApp(PropertiesReader.readKey("username_APPLITOOLS"),PropertiesReader.readKey("password_APPLITOOLS"));
         homePage homePage = new homePage(DriverManager.getDriver());
         homePage.verifyThatUserIsOnApp();
