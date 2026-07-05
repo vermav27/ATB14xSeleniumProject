@@ -180,3 +180,213 @@
 2026-02-01 12:40:38 INFO  loginPage - Clearing Text in field
 2026-02-01 12:40:38 INFO  loginPage - Entering Value Vineet
 2026-02-01 12:40:38 INFO  loginPage - Getting Value of the table cell & Verifying
+2026-02-26 11:11:55 INFO  loginPage - Entering Login to the app.
+2026-02-26 11:11:56 INFO  loginPage - Logged In
+2026-02-26 11:11:56 INFO  homePage - Start verification that user is on the app home page.
+2026-02-26 11:11:56 INFO  homePage - Verified user is on the home page.
+2026-02-26 11:11:56 INFO  homePage - Starting Calculating Value
+2026-02-26 11:11:56 INFO  homePage - String value converting to double
+2026-02-26 11:11:56 INFO  homePage - String value converted to double value.
+2026-02-26 11:11:56 INFO  homePage - String value converting to double
+2026-02-26 11:11:56 INFO  homePage - String value converted to double value.
+2026-02-26 11:11:56 INFO  homePage - String value converting to double
+2026-02-26 11:11:56 INFO  homePage - String value converted to double value.
+2026-02-26 11:11:56 INFO  homePage - String value converting to double
+2026-02-26 11:11:56 INFO  homePage - String value converted to double value.
+2026-02-26 11:11:56 INFO  homePage - String value converting to double
+2026-02-26 11:11:56 INFO  homePage - String value converted to double value.
+2026-02-26 11:11:56 INFO  homePage - String value converting to double
+2026-02-26 11:11:56 INFO  homePage - String value converted to double value.
+2026-02-26 11:11:56 INFO  homePage - Returning the spent value.
+2026-02-26 11:11:56 INFO  homePage - Starting verifying the value
+2026-02-26 11:11:57 INFO  homePage - Value verified
+2026-02-26 11:12:19 INFO  loginPage - Entering Login to the app.
+2026-02-26 11:12:21 INFO  loginPage - Logged In
+2026-02-26 11:12:21 INFO  homePage - Start verification that user is on the app home page.
+2026-02-26 11:12:21 INFO  homePage - Verified user is on the home page.
+2026-02-26 11:12:21 INFO  homePage - Starting Calculating Value
+2026-02-26 11:12:21 INFO  homePage - String value converting to double
+2026-02-26 11:12:21 INFO  homePage - String value converted to double value.
+2026-02-26 11:12:21 INFO  homePage - String value converting to double
+2026-02-26 11:12:21 INFO  homePage - String value converted to double value.
+2026-02-26 11:12:21 INFO  homePage - String value converting to double
+2026-02-26 11:12:21 INFO  homePage - String value converted to double value.
+2026-02-26 11:12:21 INFO  homePage - String value converting to double
+2026-02-26 11:12:21 INFO  homePage - String value converted to double value.
+2026-02-26 11:12:21 INFO  homePage - String value converting to double
+2026-02-26 11:12:21 INFO  homePage - String value converted to double value.
+2026-02-26 11:12:21 INFO  homePage - String value converting to double
+2026-02-26 11:12:21 INFO  homePage - String value converted to double value.
+2026-02-26 11:12:21 INFO  homePage - Returning the spent value.
+2026-02-26 11:12:21 INFO  homePage - Starting verifying the value
+2026-02-26 11:12:21 INFO  homePage - Value verified
+2026-02-26 11:12:45 INFO  loginPage - Entering Login to the app.
+2026-02-26 11:12:46 INFO  loginPage - Logged In
+2026-02-26 11:12:46 INFO  homePage - Start verification that user is on the app home page.
+2026-02-26 11:12:46 INFO  homePage - Verified user is on the home page.
+2026-02-26 11:12:46 INFO  homePage - Starting Calculating Value
+2026-02-26 11:12:46 INFO  homePage - String value converting to double
+2026-02-26 11:12:46 INFO  homePage - String value converted to double value.
+2026-02-26 11:12:46 INFO  homePage - String value converting to double
+2026-02-26 11:12:46 INFO  homePage - String value converted to double value.
+2026-02-26 11:12:46 INFO  homePage - String value converting to double
+2026-02-26 11:12:46 INFO  homePage - String value converted to double value.
+2026-02-26 11:12:46 INFO  homePage - String value converting to double
+2026-02-26 11:12:46 INFO  homePage - String value converted to double value.
+2026-02-26 11:12:46 INFO  homePage - String value converting to double
+2026-02-26 11:12:46 INFO  homePage - String value converted to double value.
+2026-02-26 11:12:46 INFO  homePage - String value converting to double
+2026-02-26 11:12:46 INFO  homePage - String value converted to double value.
+2026-02-26 11:12:46 INFO  homePage - Returning the spent value.
+2026-02-26 11:12:46 INFO  homePage - Starting verifying the value
+2026-02-26 11:12:46 INFO  homePage - Value verified
+2026-07-05 18:21:52 INFO  Test_01_LoginUsingInvalidCreds - Invalid login start
+2026-07-05 18:22:01 INFO  loginPage - Entering Login to the app.
+2026-07-05 18:22:03 INFO  loginPage - Logged In
+2026-07-05 18:22:03 INFO  homePage - Start verification that user is on the app home page.
+2026-07-05 18:22:03 INFO  homePage - Verified user is on the home page.
+2026-07-05 18:22:03 INFO  homePage - Starting Calculating Value
+2026-07-05 18:22:03 INFO  homePage - String value converting to double
+2026-07-05 18:22:03 INFO  homePage - String value converted to double value.
+2026-07-05 18:22:03 INFO  homePage - String value converting to double
+2026-07-05 18:22:03 INFO  homePage - String value converted to double value.
+2026-07-05 18:22:03 INFO  homePage - String value converting to double
+2026-07-05 18:22:03 INFO  homePage - String value converted to double value.
+2026-07-05 18:22:03 INFO  homePage - String value converting to double
+2026-07-05 18:22:03 INFO  homePage - String value converted to double value.
+2026-07-05 18:22:03 INFO  homePage - String value converting to double
+2026-07-05 18:22:03 INFO  homePage - String value converted to double value.
+2026-07-05 18:22:03 INFO  homePage - String value converting to double
+2026-07-05 18:22:03 INFO  homePage - String value converted to double value.
+2026-07-05 18:22:03 INFO  homePage - Returning the spent value.
+2026-07-05 18:22:03 INFO  homePage - Starting verifying the value
+2026-07-05 18:22:03 INFO  homePage - Value verified
+2026-07-05 18:22:04 INFO  loginPage - Opening website Demo QA
+2026-07-05 18:22:07 INFO  loginPage - Scrolling to take table into view
+2026-07-05 18:22:07 INFO  loginPage - Waiting for edit button for visibility
+2026-07-05 18:22:19 INFO  loginPage - Opening website Demo QA
+2026-07-05 18:22:21 INFO  loginPage - Scrolling to take table into view
+2026-07-05 18:22:21 INFO  loginPage - Waiting for edit button for visibility
+2026-07-05 18:22:32 INFO  loginPage - Opening website Demo QA
+2026-07-05 18:22:35 INFO  loginPage - Scrolling to take table into view
+2026-07-05 18:22:35 INFO  loginPage - Waiting for edit button for visibility
+2026-07-05 18:22:47 INFO  loginPage - Opening website Demo QA
+2026-07-05 18:22:48 INFO  loginPage - Scrolling to take table into view
+2026-07-05 18:22:49 INFO  loginPage - Waiting for edit button for visibility
+2026-07-05 18:22:59 INFO  ScreenshotListener - Screenshot captured for failed test: loginToAppAndVerifyTheSumOfTransactions in class: org.example.test.demoQA.Test_01_EditTheTableRowAndVerify
+2026-07-05 18:22:59 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/loginToAppAndVerifyTheSumOfTransactions_05_07_2026_06_22_59.png
+2026-07-05 18:26:39 INFO  Test_01_LoginUsingInvalidCreds - Invalid login start
+2026-07-05 18:26:49 INFO  loginPage - Entering Login to the app.
+2026-07-05 18:26:50 INFO  loginPage - Logged In
+2026-07-05 18:26:50 INFO  homePage - Start verification that user is on the app home page.
+2026-07-05 18:26:50 INFO  homePage - Verified user is on the home page.
+2026-07-05 18:26:50 INFO  homePage - Starting Calculating Value
+2026-07-05 18:26:50 INFO  homePage - String value converting to double
+2026-07-05 18:26:50 INFO  homePage - String value converted to double value.
+2026-07-05 18:26:50 INFO  homePage - String value converting to double
+2026-07-05 18:26:50 INFO  homePage - String value converted to double value.
+2026-07-05 18:26:50 INFO  homePage - String value converting to double
+2026-07-05 18:26:50 INFO  homePage - String value converted to double value.
+2026-07-05 18:26:50 INFO  homePage - String value converting to double
+2026-07-05 18:26:50 INFO  homePage - String value converted to double value.
+2026-07-05 18:26:50 INFO  homePage - String value converting to double
+2026-07-05 18:26:50 INFO  homePage - String value converted to double value.
+2026-07-05 18:26:50 INFO  homePage - String value converting to double
+2026-07-05 18:26:50 INFO  homePage - String value converted to double value.
+2026-07-05 18:26:50 INFO  homePage - Returning the spent value.
+2026-07-05 18:26:50 INFO  homePage - Starting verifying the value
+2026-07-05 18:26:50 INFO  homePage - Value verified
+2026-07-05 18:26:51 INFO  loginPage - Opening website Demo QA
+2026-07-05 18:26:53 INFO  loginPage - Scrolling to take table into view
+2026-07-05 18:26:53 INFO  loginPage - Waiting for edit button for visibility
+2026-07-05 18:28:45 INFO  loginPage - Opening website Demo QA
+2026-07-05 18:28:46 INFO  loginPage - Scrolling to take table into view
+2026-07-05 18:28:47 INFO  loginPage - Waiting for edit button for visibility
+2026-07-05 18:28:57 INFO  ScreenshotListener - Screenshot captured for failed test: loginToAppAndVerifyTheSumOfTransactions in class: org.example.test.demoQA.Test_01_EditTheTableRowAndVerify
+2026-07-05 18:28:58 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/loginToAppAndVerifyTheSumOfTransactions_05_07_2026_06_28_57.png
+2026-07-05 18:29:16 INFO  loginPage - Opening website Demo QA
+2026-07-05 18:29:18 INFO  loginPage - Scrolling to take table into view
+2026-07-05 18:29:19 INFO  loginPage - Waiting for edit button for visibility
+2026-07-05 18:29:30 INFO  ScreenshotListener - Screenshot captured for failed test: loginToAppAndVerifyTheSumOfTransactions in class: org.example.test.demoQA.Test_01_EditTheTableRowAndVerify
+2026-07-05 18:29:30 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/loginToAppAndVerifyTheSumOfTransactions_05_07_2026_06_29_30.png
+2026-07-05 18:32:02 INFO  loginPage - Opening website Demo QA
+2026-07-05 18:32:03 INFO  loginPage - Scrolling to take table into view
+2026-07-05 18:32:05 INFO  loginPage - Waiting for edit button for visibility
+2026-07-05 18:32:15 INFO  ScreenshotListener - Screenshot captured for failed test: loginToAppAndVerifyTheSumOfTransactions in class: org.example.test.demoQA.Test_01_EditTheTableRowAndVerify
+2026-07-05 18:32:15 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/loginToAppAndVerifyTheSumOfTransactions_05_07_2026_06_32_15.png
+2026-07-05 18:33:53 INFO  Test_01_LoginUsingInvalidCreds - Invalid login start
+2026-07-05 18:34:02 INFO  loginPage - Entering Login to the app.
+2026-07-05 18:34:02 INFO  loginPage - Logged In
+2026-07-05 18:34:02 INFO  homePage - Start verification that user is on the app home page.
+2026-07-05 18:34:03 INFO  homePage - Verified user is on the home page.
+2026-07-05 18:34:03 INFO  homePage - Starting Calculating Value
+2026-07-05 18:34:03 INFO  homePage - String value converting to double
+2026-07-05 18:34:03 INFO  homePage - String value converted to double value.
+2026-07-05 18:34:03 INFO  homePage - String value converting to double
+2026-07-05 18:34:03 INFO  homePage - String value converted to double value.
+2026-07-05 18:34:03 INFO  homePage - String value converting to double
+2026-07-05 18:34:03 INFO  homePage - String value converted to double value.
+2026-07-05 18:34:03 INFO  homePage - String value converting to double
+2026-07-05 18:34:03 INFO  homePage - String value converted to double value.
+2026-07-05 18:34:03 INFO  homePage - String value converting to double
+2026-07-05 18:34:03 INFO  homePage - String value converted to double value.
+2026-07-05 18:34:03 INFO  homePage - String value converting to double
+2026-07-05 18:34:03 INFO  homePage - String value converted to double value.
+2026-07-05 18:34:03 INFO  homePage - Returning the spent value.
+2026-07-05 18:34:03 INFO  homePage - Starting verifying the value
+2026-07-05 18:34:03 INFO  homePage - Value verified
+2026-07-05 18:34:04 INFO  loginPage - Opening website Demo QA
+2026-07-05 18:34:06 INFO  loginPage - Scrolling to take table into view
+2026-07-05 18:34:06 INFO  loginPage - Waiting for edit button for visibility
+2026-07-05 18:34:18 INFO  loginPage - Opening website Demo QA
+2026-07-05 18:34:19 INFO  loginPage - Scrolling to take table into view
+2026-07-05 18:34:20 INFO  loginPage - Waiting for edit button for visibility
+2026-07-05 18:34:32 INFO  loginPage - Opening website Demo QA
+2026-07-05 18:34:33 INFO  loginPage - Scrolling to take table into view
+2026-07-05 18:34:34 INFO  loginPage - Waiting for edit button for visibility
+2026-07-05 18:34:46 INFO  loginPage - Opening website Demo QA
+2026-07-05 18:34:47 INFO  loginPage - Scrolling to take table into view
+2026-07-05 18:34:48 INFO  loginPage - Waiting for edit button for visibility
+2026-07-05 18:34:59 INFO  ScreenshotListener - Screenshot captured for failed test: loginToAppAndVerifyTheSumOfTransactions in class: org.example.test.demoQA.Test_01_EditTheTableRowAndVerify
+2026-07-05 18:34:59 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/loginToAppAndVerifyTheSumOfTransactions_05_07_2026_06_34_58.png
+2026-07-05 19:00:23 INFO  loginPage - Opening website Demo QA
+2026-07-05 19:00:26 INFO  loginPage - Scrolling to take table into view
+2026-07-05 19:00:26 INFO  loginPage - Waiting for edit button for visibility
+2026-07-05 19:00:26 INFO  loginPage - Clearing Text in field
+2026-07-05 19:00:27 INFO  loginPage - Entering Value Vineet
+2026-07-05 19:00:27 INFO  loginPage - Getting Value of the table cell & Verifying
+2026-07-05 19:00:28 INFO  ScreenshotListener - Screenshot captured for failed test: loginToAppAndVerifyTheSumOfTransactions in class: org.example.test.demoQA.Test_01_EditTheTableRowAndVerify
+2026-07-05 19:00:28 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/loginToAppAndVerifyTheSumOfTransactions_05_07_2026_07_00_28.png
+2026-07-05 19:05:08 INFO  loginPage - Opening website Demo QA
+2026-07-05 19:05:10 INFO  loginPage - Scrolling to take table into view
+2026-07-05 19:05:10 INFO  loginPage - Waiting for edit button for visibility
+2026-07-05 19:05:10 INFO  loginPage - Clearing Text in field
+2026-07-05 19:05:11 INFO  loginPage - Entering Value Vineet
+2026-07-05 19:05:11 INFO  loginPage - Getting Value of the table cell & Verifying
+2026-07-05 19:05:36 INFO  Test_01_LoginUsingInvalidCreds - Invalid login start
+2026-07-05 19:05:46 INFO  loginPage - Entering Login to the app.
+2026-07-05 19:05:47 INFO  loginPage - Logged In
+2026-07-05 19:05:47 INFO  homePage - Start verification that user is on the app home page.
+2026-07-05 19:05:47 INFO  homePage - Verified user is on the home page.
+2026-07-05 19:05:47 INFO  homePage - Starting Calculating Value
+2026-07-05 19:05:47 INFO  homePage - String value converting to double
+2026-07-05 19:05:47 INFO  homePage - String value converted to double value.
+2026-07-05 19:05:47 INFO  homePage - String value converting to double
+2026-07-05 19:05:47 INFO  homePage - String value converted to double value.
+2026-07-05 19:05:47 INFO  homePage - String value converting to double
+2026-07-05 19:05:47 INFO  homePage - String value converted to double value.
+2026-07-05 19:05:47 INFO  homePage - String value converting to double
+2026-07-05 19:05:47 INFO  homePage - String value converted to double value.
+2026-07-05 19:05:47 INFO  homePage - String value converting to double
+2026-07-05 19:05:47 INFO  homePage - String value converted to double value.
+2026-07-05 19:05:47 INFO  homePage - String value converting to double
+2026-07-05 19:05:47 INFO  homePage - String value converted to double value.
+2026-07-05 19:05:47 INFO  homePage - Returning the spent value.
+2026-07-05 19:05:47 INFO  homePage - Starting verifying the value
+2026-07-05 19:05:47 INFO  homePage - Value verified
+2026-07-05 19:05:48 INFO  loginPage - Opening website Demo QA
+2026-07-05 19:05:50 INFO  loginPage - Scrolling to take table into view
+2026-07-05 19:05:50 INFO  loginPage - Waiting for edit button for visibility
+2026-07-05 19:05:50 INFO  loginPage - Clearing Text in field
+2026-07-05 19:05:50 INFO  loginPage - Entering Value Vineet
+2026-07-05 19:05:51 INFO  loginPage - Getting Value of the table cell & Verifying

@@ -22,21 +22,22 @@ public class homePage {
     }
 
     //Page Locators
-    private By rowToEdit = By.xpath("//div[@class='rt-tbody']/div[3]/div//span[@title='Edit']");
+    private By rowToEdit = By.xpath("//span[@id='edit-record-1']");
     private By firstName = By.xpath("//div[@id='firstName-wrapper']//input");
     private By BTN_submit = By.xpath("//button[@id='submit']");
-    private By TBL_firstname = By.xpath("//div[@class='rt-tbody']/div[3]/div/div[1]");
+    private By TBL_firstname = By.xpath("//span[@id='edit-record-1']//ancestor::td//preceding-sibling::td[6]");
+
 
 
     //Page Actions
-    public void editTableRowAndVerifyTheNameAddedInRow(String nameToAdd){
+    public void editTableRowAndVerifyTheNameAddedInRow(String nameToAdd)  {
 
         logger.info("Opening website Demo QA");
         driver.get(PropertiesReader.readKey("url_DEMOQA"));
 
         logger.info("Scrolling to take table into view");
         JavascriptExecutor js = (JavascriptExecutor) driver;
-        js.executeScript("window.scrollBy(0,500);");
+        js.executeScript("window.scrollBy(0,100);");
 
         logger.info("Waiting for edit button for visibility");
         WaitHelpers.checkForVisibility(driver,rowToEdit);
